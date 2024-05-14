@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://kennguyen.vercel.app/" target="blank">
 Ken Nguyen</a></h1>
-<h3 align="center">A passionate Fullstack developer from Vietnam &#127470;&#127475</h3>
+<h3 align="center">A passionate Fullstack developer from Vietnam</h3>
 
 
 - 🔭 I’m currently Working on some microservice projects
