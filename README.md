@@ -7,8 +7,6 @@ Ken Nguyen</a></h1>
 
 - 🌱 I’m currently learning DDD principles, Angular, microservice
 
-- 🤝 I’m available for freelancing.
-
 - 💬 Ask me about **Reactjs & Asp.Net**
 
 - 📫 How to reach me **ngkien299@gmail.com**
